@@ -1,0 +1,25 @@
+.stylewebl{
+    background-color: cyan;
+    padding: 18px;
+}
+.styleweb2{
+    text-align: right;
+    font-size: 20px;
+    font-family: "Californian FB";
+}
+.styleimg{
+    margin-left: 200px;
+    width: 80%;
+
+}
+.styleweb3{
+    padding: 12px;
+}
+.styleweb4{
+    padding: 12px;
+    background-color: cornflowerblue;
+}
+.styleinput{
+    width: 70%;
+    margin: 15px;
+}
